@@ -6,7 +6,7 @@ Application Symfony 7 permettant d'accompagner des candidats dans leur reconvers
 
 ---
 
-Le site est hébergé sur alwaysdata à l'adresse suivante : http://sacha-cle.alwaysdata.net/evaluation/
+Le base de donné est hébergé sur alwaysdata
 
 ## ✅ Fonctionnalités réalisées
 
